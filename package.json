@@ -1,0 +1,27 @@
+{
+  "name": "hubot-s3-brain",
+  "description": "Stores Hubot's brain in Amazon S3",
+  "version": "0.0.1",
+  "author": "Chris Spicer <github@cspicer.ca>",
+  "license": "MIT",
+
+  "keywords": [
+    "hubot",
+    "hubot-brain"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cspicer/hubot-s3-brain.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/cspicer/hubot-s3-brain/hubot-example/issues"
+  },
+
+  "dependencies": {
+    "aws2js": "~0.7.10"
+  },
+
+  "main": "index.coffee"
+}
